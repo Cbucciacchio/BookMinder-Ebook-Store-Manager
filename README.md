@@ -13,4 +13,4 @@ This program is a program that allows the clerk to enter data about new books in
 # Technologies used
 - Python
 - SQL
-- SQLite
+
