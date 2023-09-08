@@ -1,5 +1,4 @@
-# Book-store-py-SQL-database
-hyperion capstone project 5
+# BookMinder: Ebook Store Manager
 
 # Overview 
 This program is a program that allows the clerk to enter data about new books into the database, update book information, delete books from the database and search to find the availability of books in the database.
